@@ -1,4 +1,4 @@
-print("(c) Vescio labs  R-W terminal version 1.0")
+print("(c) Toronto Electronics  R-W terminal version 1.0")
 run=True
 data1=" "
 data2=" "
